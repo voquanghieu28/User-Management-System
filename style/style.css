@@ -1,0 +1,33 @@
+/**
+Author:         QUANG HIEU VO
+Date:           Feb 11, 2021     
+Description:    Assignment1, COIS 3420H Winter 2021
+Parameters:     N/A
+References:     N/A
+Revisions:      N/A
+*/
+
+/** NAV ITEM*/
+nav ul li{         
+    padding-right:40px;
+}
+/** SECTION*/
+section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+/** CENTER*/
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+
+
+
+  
